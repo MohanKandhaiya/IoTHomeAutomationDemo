@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Room1Activity">
+
+    <TextView
+        android:id="@+id/node1View"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:padding="5dp"
+        android:text="@string/_1st_room"
+        android:textColor="#FF0000"
+        android:textSize="24sp" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="200dp"
+        android:layout_marginTop="125dp"
+        android:background="@drawable/toggle_button"
+        android:padding="2dp"
+        android:text="@string/togglebutton"
+        android:textColor="#FFF"
+        android:textSize="18sp" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="200dp"
+        android:layout_marginTop="205dp"
+        android:background="@drawable/toggle_button"
+        android:padding="2dp"
+        android:text="@string/togglebutton"
+        android:textColor="#FFF"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/light1View"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="120dp"
+        android:padding="5dp"
+        android:text="@string/light_1"
+        android:textColor="#FF1493"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/light2View"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="200dp"
+        android:padding="5dp"
+        android:text="@string/light_2"
+        android:textColor="#FF1493"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/sensorView"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="280dp"
+        android:padding="5dp"
+        android:text="@string/sensor"
+        android:textColor="#FF1493"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/sensorText"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="200dp"
+        android:layout_marginTop="280dp"
+        android:layout_marginEnd="20dp"
+        android:ems="10"
+        android:hint="@string/_00"
+        android:inputType="textPersonName"
+        android:padding="5dp"
+        android:textColor="#000080"
+        android:textColorHint="#6495ED"
+        android:textColorLink="#000080"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/footerView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="50dp"
+        android:text="@string/https_mybtechprojects_tech"
+        android:textColor="#D2691E" />
+
+</RelativeLayout>

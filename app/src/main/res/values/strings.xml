@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IoT Home Automation Demo</string>
+    <string name="https_mybtechprojects_tech">https://mybtechprojects.tech</string>
+    <string name="room_1">Room 1</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="light_1">Light 1</string>
+    <string name="light_2">Light 2</string>
+    <string name="sensor">Sensor</string>
+    <string name="room_1_sensor_value">Room 1 Sensor Value</string>
+    <string name="room_2_sensor_value">Room 2 Sensor Value</string>
+    <string name="enter_into_room_2">Enter into Room 2</string>
+    <string name="enter_into_room_1">Enter into Room 1</string>
+    <string name="home_automation_demo">Home Automation Demo</string>
+    <string name="vlsi_embedded_systems_research_group"><![CDATA[VLSI & Embedded Systems Research Group]]></string>
+    <string name="sastra_altera_fpga_lab">SASTRA Altera FPGA Lab</string>
+    <string name="_1st_room">1st Room</string>
+    <string name="_2nd_room">2nd Room</string>
+    <string name="sensor_value">Sensor Value</string>
+    <string name="_00">00</string>
+    <string name="mybtechprojects_tech_mohan_kandhaiya">mybtechprojects.tech - Mohan Kandhaiya</string>
+    <string name="iot_home_automation_demo">IoT Home Automation Demo</string>
+</resources>

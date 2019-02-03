@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "302823818466",
+    "firebase_url": "https://iot-home-automation-demo.firebaseio.com",
+    "project_id": "iot-home-automation-demo",
+    "storage_bucket": "iot-home-automation-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302823818466:android:66eddfac531adf09",
+        "android_client_info": {
+          "package_name": "com.minixplore.firebase.iothomeautomationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302823818466-h7fp38di70qq38fqj0sa0h1gu6qh5297.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.minixplore.firebase.iothomeautomationdemo",
+            "certificate_hash": "24ba841f572adc790d0541f5ee90f1dd3af0f0c4"
+          }
+        },
+        {
+          "client_id": "302823818466-mj1qukc8eben9sgt53cltjranbth90nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Gqbne37EeRJqotblOw6ereCL1DvntoI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302823818466-mj1qukc8eben9sgt53cltjranbth90nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
